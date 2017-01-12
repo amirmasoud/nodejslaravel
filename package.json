@@ -1,0 +1,28 @@
+{
+  "name": "nodejslaravel",
+  "version": "1.0.0",
+  "description": "Run laravel artisan command by cronjob of nodejs Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirmasoud/nodejslaravel.git"
+  },
+  "keywords": [
+    "cron",
+    "cronjob",
+    "laravel",
+    "artisan"
+  ],
+  "author": "Amirmasoud Shiedayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirmasoud/nodejslaravel/issues"
+  },
+  "homepage": "https://github.com/amirmasoud/nodejslaravel#readme",
+  "dependencies": {
+    "cron": "^1.2.1"
+  }
+}
